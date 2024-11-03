@@ -1,0 +1,8 @@
+[elasticsearch]
+192.168.56.105 ansible_user=hideki
+[kibana]
+192.168.56.102
+[logstash]
+192.168.56.102
+
+
